@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap");
+.logo {
+  height: 250px;
+  width: auto;
+}
+img{
+  height: 300px;
+  width: auto;
+}
+h2 {
+  font-family: Montserrat;
+}
+
+.navbar{
+  justify-content:flex-end;
+  border: 5px solid whitesmoke;
+  height: 50px;
+  align-items: center;
+  background:black;
+}
+.navbar a {
+  margin-left: 60px;
+  margin-right: 150px;
+  text-decoration: none;
+  font font-weight: bold;
+  color:white;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+a:hover{
+  color:blanchedalmond;
+}
